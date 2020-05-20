@@ -1,0 +1,57 @@
+@media screen and (max-width:419px) {
+  *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+  body{
+    font-size:13px;
+  }
+
+#lezioni ,#steps{
+  margin-bottom: 70px;
+}
+
+#why{
+  margin-bottom: 15px;
+}
+
+.row{
+  width: 80%;
+  margin-top: 20px;
+}
+
+  #lezioni .row > .left ,#lezioni .row > .right {
+    margin-top: 20px;
+    width: 100%;
+    float: none;
+  }
+
+
+
+.row img{
+  height: 100px;
+  width: auto;
+}
+
+#steps .row>.left,
+#steps .row>.central,
+#steps .row>.right {
+  margin-top: 20px;
+  float:none;
+  width: 100%
+}
+#why .row>.first,
+#why .row>.second,
+#why .row>.third {
+  margin-top: 20px;
+  width: 100%;
+
+}
+
+hr{
+  margin-top:20px;
+}
+
+}
