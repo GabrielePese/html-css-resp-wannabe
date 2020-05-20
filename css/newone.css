@@ -11,8 +11,12 @@
 
 #lezioni ,#steps{
   margin-bottom: 70px;
-
 }
+
+#why{
+  margin-bottom: 15px;
+}
+
 .row{
   width: 80%;
   margin-top: 20px;
